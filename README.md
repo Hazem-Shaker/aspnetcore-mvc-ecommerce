@@ -1,4 +1,4 @@
-﻿# E-Shop — ASP.NET Core MVC E-Commerce Platform
+# E-Shop — ASP.NET Core MVC E-Commerce Platform
 
 A full-featured e-commerce web application built with ASP.NET Core MVC, Entity Framework Core, and ASP.NET Core Identity. It supports a public product catalog, a database-backed shopping cart, atomic checkout, file uploads, and a complete admin panel.
 
